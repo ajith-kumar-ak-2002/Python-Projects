@@ -4,4 +4,6 @@
 ### Projects Included:
 1_mini_python_project: Contains the Age_Calculator.py script.
 
-2_Min_python_project: Contains the student_marks_calculate.py script.
+2_Mini_python_project: Contains the student_marks_calculate.py script.
+
+3_mini_python_project: contains rock , paper or scissors Game script
