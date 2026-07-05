@@ -11,3 +11,5 @@
 4_mini_python_project: Contain Number Guessing Game 
 
 5_mini_python_projecr: Contain ATM Backend Machine Working Code.
+
+6_mini_python_project: Random Strong Password Generator 
