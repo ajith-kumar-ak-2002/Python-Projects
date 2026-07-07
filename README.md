@@ -15,3 +15,5 @@
 6_mini_python_project: Random Strong Password Generator.
 
 7_mini_python_project: QR Code Generator.
+
+8_mini_python_project: Face Detection Project.
