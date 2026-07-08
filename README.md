@@ -17,3 +17,5 @@
 7_mini_python_project: QR Code Generator.
 
 8_mini_python_project: Face Detection Project.
+
+9_mini_python_project: Bar Code Generator.
