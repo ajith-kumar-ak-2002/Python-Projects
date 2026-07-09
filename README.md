@@ -19,3 +19,5 @@
 8_mini_python_project: Face Detection Project.
 
 9_mini_python_project: Bar Code Generator.
+
+10_mini_python_project: Jarvis Voice Command 
