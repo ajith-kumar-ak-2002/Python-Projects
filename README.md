@@ -21,3 +21,5 @@
 9_mini_python_project: Bar Code Generator.
 
 10_mini_python_project: Jarvis Voice Command 
+
+11_mini_python_project: Hangman Game Updated.
