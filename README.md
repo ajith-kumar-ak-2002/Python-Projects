@@ -23,3 +23,5 @@
 10_mini_python_project: Jarvis Voice Command 
 
 11_mini_python_project: Hangman Game Updated.
+
+12_mini_python_project: Tic toc Tic Game updated.
